@@ -1,0 +1,22 @@
+{
+    "name": "theme-hydrangea",
+    "displayName": "Hydrangea",
+    "description": "A theme inspired by hydrangea",
+    "version": "0.0.1",
+    "publisher": "linjus",
+    "engines": {
+        "vscode": "^1.11.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "hydrangea",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hydrangea.tmTheme"
+            }
+        ]
+    }
+}
