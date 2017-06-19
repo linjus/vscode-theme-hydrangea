@@ -10,6 +10,11 @@
     "categories": [
         "Themes"
     ],
+	"homepage": "https://github.com/linjus/vscode-theme-hydrangea",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/linjus/vscode-theme-hydrangea"
+	},
     "contributes": {
         "themes": [
             {
