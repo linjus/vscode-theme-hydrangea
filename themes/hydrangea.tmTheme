@@ -30,7 +30,7 @@
 
 				<key>invisibles</key> <string>#49483E</string>
 				<!--<key>guide</key> <string></string>-->
-				<key>guide</key> <string>#ff0000</string>
+				<!-- <key>guide</key> <string>#ff0000</string> -->
 
 				<!--<key>hoverHighlight</key> <string></string>-->
 
