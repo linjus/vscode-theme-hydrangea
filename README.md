@@ -7,7 +7,7 @@ subtle differences among highlights.
 
 ![Main Screenshot](https://github.com/linjus/vscode-theme-hydrangea/raw/master/codeshot.png)
 
-I have been tested this theme with the following languages:
+I have tested this theme with the following languages:
  - F#
  - Go
  - JSON
